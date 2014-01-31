@@ -25,7 +25,8 @@ JS Frameworks
 -------------
 
 ### Angular.js
-https://egghead.io/lessons
+video lessons: https://egghead.io/lessons
+angular github wiki: https://github.com/angular/angular.js/wiki
 
 Start-up
 --------------

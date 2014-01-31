@@ -12,6 +12,8 @@ How to run Docco: http://lostechies.com/derickbailey/2011/12/14/annotated-source
 
 Markdown Beginner's Tutorial: http://daringfireball.net/projects/markdown/basics
 
+Writing maintainable and readable code: https://github.com/rwaldron/idiomatic.js#naming
+
 Patterns
 --------
 ### Blogs

@@ -14,6 +14,9 @@ Markdown Beginner's Tutorial: http://daringfireball.net/projects/markdown/basics
 
 Patterns
 --------
+### Blogs
+http://addyosmani.com/blog/
+http://www.codinghorror.com/blog/
 
 ### Models
 http://joelhooks.com/blog/2013/04/24/modeling-data-and-state-in-your-angularjs-application/
@@ -23,3 +26,11 @@ JS Frameworks
 
 ### Angular.js
 https://egghead.io/lessons
+
+Start-up
+--------------
+### Blogs
+http://www.paulgraham.com/articles.html
+
+### Managing Teams
+http://randsinrepose.com/

@@ -17,8 +17,8 @@ Writing maintainable and readable code: https://github.com/rwaldron/idiomatic.js
 Patterns
 --------
 ### Blogs
-http://addyosmani.com/blog/
-http://www.codinghorror.com/blog/
+1. http://addyosmani.com/blog/
+1. http://www.codinghorror.com/blog/
 
 ### Models
 http://joelhooks.com/blog/2013/04/24/modeling-data-and-state-in-your-angularjs-application/

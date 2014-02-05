@@ -10,15 +10,18 @@ JSDoc Semantic Reference: http://usejsdoc.org/
 
 How to run Docco: http://lostechies.com/derickbailey/2011/12/14/annotated-source-code-as-documentation-with-docco/
 
-Markdown Beginner's Tutorial: http://daringfireball.net/projects/markdown/basics
+Markdown Beginner's Tutorial: <br/>
+1. http://stackoverflow.com/editing-help
+1. http://daringfireball.net/projects/markdown/basics
+        
 
 Writing maintainable and readable code: https://github.com/rwaldron/idiomatic.js#naming
 
 Patterns
 --------
 ### Blogs
-1. http://addyosmani.com/blog/
-1. http://www.codinghorror.com/blog/
+- http://addyosmani.com/blog/
+- http://www.codinghorror.com/blog/
 
 ### Models
 http://joelhooks.com/blog/2013/04/24/modeling-data-and-state-in-your-angularjs-application/

@@ -10,9 +10,9 @@ JSDoc Semantic Reference: http://usejsdoc.org/
 
 How to run Docco: http://lostechies.com/derickbailey/2011/12/14/annotated-source-code-as-documentation-with-docco/
 
-Markdown Beginner's Tutorial: <br/>
-1. http://stackoverflow.com/editing-help
-1. http://daringfireball.net/projects/markdown/basics
+Markdown Beginner's Tutorial:  
+- http://stackoverflow.com/editing-help
+- http://daringfireball.net/projects/markdown/basics
         
 
 Writing maintainable and readable code: https://github.com/rwaldron/idiomatic.js#naming

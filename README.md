@@ -40,3 +40,7 @@ http://www.paulgraham.com/articles.html
 
 ### Managing Teams
 http://randsinrepose.com/
+
+JS Rules
+---
+Adequetly good: Hoisting and scope http://www.adequatelygood.com/JavaScript-Scoping-and-Hoisting.html

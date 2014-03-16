@@ -48,6 +48,17 @@ Working Software over Comprehensive Documentation
 Customer Collaboration over Contract Negotiation, and
 Responding to Change over Following a Plan
 
+**What to do:**
+
+Find out where you are
+Take a small step towards your goal
+Adjust your understanding based on what you learned
+Repeat
+
+**How to do it:**
+
+When faced with two or more alternatives that deliver roughly the same value, take the path that makes future change easier.
+
 JS Rules
 ---
 Adequetly good: Hoisting and scope http://www.adequatelygood.com/JavaScript-Scoping-and-Hoisting.html

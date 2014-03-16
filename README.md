@@ -43,17 +43,17 @@ http://randsinrepose.com/
 
 Agile rules:
 
-Individuals and Interactions over Processes and Tools
-Working Software over Comprehensive Documentation
-Customer Collaboration over Contract Negotiation, and
-Responding to Change over Following a Plan
+* Individuals and Interactions over Processes and Tools
+* Working Software over Comprehensive Documentation
+* Customer Collaboration over Contract Negotiation, and
+* Responding to Change over Following a Plan
 
 **What to do:**
 
-Find out where you are
-Take a small step towards your goal
-Adjust your understanding based on what you learned
-Repeat
+* Find out where you are
+* Take a small step towards your goal
+* Adjust your understanding based on what you learned
+* Repeat
 
 **How to do it:**
 

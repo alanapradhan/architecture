@@ -41,6 +41,13 @@ http://www.paulgraham.com/articles.html
 ### Managing Teams
 http://randsinrepose.com/
 
+Agile rules:
+
+Individuals and Interactions over Processes and Tools
+Working Software over Comprehensive Documentation
+Customer Collaboration over Contract Negotiation, and
+Responding to Change over Following a Plan
+
 JS Rules
 ---
 Adequetly good: Hoisting and scope http://www.adequatelygood.com/JavaScript-Scoping-and-Hoisting.html
